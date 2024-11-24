@@ -1,0 +1,51 @@
+Introducción a la gestión de proyectos: La gestión de proyectos es crucial para el éxito de cualquier iniciativa
+implica la planificación, organización, dirección y control de recursos para lograr objetivos específicos dentro de un plazo determinado.
+
+Modelo de gestión en cascada: El modelo de gestión en cascada es un enfoque secuencial para el desarrollo de software,
+                              donde el proceso avanza de manera lineal a través de varias etapas definidas.
+                              Puede ser rígido y costoso de adaptar si surgen cambios en las necesidades del proyecto mas adelantes.
+                              
+
+Principales características: 1.Secuencial y Lineal
+                             2.Fases definidas
+                             3.Requisitos estables
+                             4.Documentacion extensiva
+                             5.Dificultad de incorporar a cambios
+                             6.Entrega al final del ciclo
+                             7.Control Rígido
+                             8.Ideal para proyectos predecibles
+
+Fases del modelo de gestión en cascada: el modelo en cascada es un enfoque lineal y secuencial para la gestión de proyectos.Comienza con la definición de requesitos y avanza a través de etapas definidas.
+
+Ventajas: Estructura clara y definida.
+          Fácil de gestionar y controlar.
+          Adecuado para proyectos con requisitos bien definidos
+
+Desventajas: Rigidez y poca flexibilidad.
+             Dificultad para adaptarse a cambios.
+             Poca interacción con el usuario final.
+
+
+Mitología AGILE: La metodología ágil es un enfoque flexible y colaborativo para el desarrollo de software, que se basa en ciclos cortos de trabajo llamados "sprints" o "iteraciones".
+En lugar de seguir un plan rígido como en el modelo en cascada, ágil se centra en la adaptabilidad, la mejora continua y la entrega frecuente de pequeños incrementos de software funcional.
+Los equipos trabajan en conjunto con los clientes para ajustar los requisitos a medida que avanza el proyecto, priorizando la respuesta rápida al cambio y la colaboración constante sobre procesos estrictos. Esta metodología es ideal para entornos donde las necesidades y objetivos pueden evolucionar rápidamente.
+
+1.Evaluacion de procesos y estructura actual de la empresa
+2.Sugerencias de mejora y optimización de procesos
+3.Diseño de la aplicación conjunto con el cliente
+4.Construccion e implementación de la aplicación
+5.Evaluacion y monitoreo.
+
+El Manifiesto Agil: Valores Fundamentales.
+
+El manifiesto ágil define valores esenciales para la gestión de proyectos agiles. Prioriza la colaboración, la flexibilidad, la respuesta al cambio y la entrega de valor.
+
+Principios clave de la metodologías agiles:
+1.Iteraciones cortas: Se trabaja en ciclos cortos para entregar valor de forma incremental.
+2.Retroalimentacion continua: Se busca la opinión del cliente y del equipo para mejorar el proyecto.
+3.Priorizacion
+
+
+SCRUM: es una de las metodologías agiles mas utilizadas, se basa en ciclos de trabajos cortos llamados "sprints", que suelen durar entre 1 y 4 semanas, y se enfoca en la entrega rápida de productos funcionales. Evaluación de las lecciones aprendidas en proyectos anteriores.
+
+KANVAN: Se centra en la visualización del flujo de trabajo mediante un tablero(físico o digital), donde las tareas se mueven a través de columnas que representan las diferentes etapas.
